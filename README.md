@@ -16,7 +16,7 @@ Website Figma -- https://www.figma.com/
 
 ## Task 2: Submit your ***group*** idea/concept/mood boards.
 Upload your concept board as PDF file to this reposity. <br>
-filename as template : Group(A-J)_ConceptName.pdf
+filename as template : Group_B_Activity_Feature.pdf
 
 
 
@@ -24,4 +24,4 @@ filename as template : Group(A-J)_ConceptName.pdf
 Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
-Group Aphabet [A-J]
+Group Aphabet [B](https://www.figma.com/team_invite/redeem/zgC6Oi4hinBf5sgjd2RIvt)
