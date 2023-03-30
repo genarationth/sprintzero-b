@@ -2,7 +2,7 @@
 # Final Project: First ***Group*** Sprint
 
 ## Task 1 : Design your group app wireframes using Figma
-Website Figma -- https://www.figma.com/
+Website Figma -- https://www.figma.com/file/L5I5d7Qs3kKW5uvxvonnGs/draft-2?node-id=0-1&t=IZHBCU3hf1tBMW2b-0
 1. Read the Assessment Criteria [Here](https://docs.google.com/spreadsheets/d/1mXg-4Hpygg8zl4pfaA998_-t3BapSOWNOfyC699OhEk/edit#gid=1164902319).
 2. For your Exercise Tracker App, design your wireframes using Figma.
 
